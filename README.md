@@ -19,7 +19,7 @@ This project explores the **New York City Airbnb Open Data (2019)** dataset to i
 After a comprehensive analysis, here are the insights and implications:
 
 - **Price Distribution and Boroughs**:
-  - Prices vary significantly across boroughs (ANOVA, p < 0.05). Manhattan has the highest average price (~$180), while the Bronx is the lowest (~$80), reflecting location-driven demand and cost of living differences.
+  - Prices vary significantly across boroughs (ANOVA, p < 0.05). Manhattan has the highest average price (~180 USD), while the Bronx is the lowest (~80 USD), reflecting location-driven demand and cost of living differences.
   - Entire homes/apartments command higher prices than private or shared rooms, especially in Manhattan and Brooklyn.
 
 - **Room Type Impact**:
