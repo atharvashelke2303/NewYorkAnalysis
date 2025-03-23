@@ -44,8 +44,3 @@ After a comprehensive analysis, here are the insights and implications:
 - **Business Implications**:
   - **For Hosts**: In Manhattan and Brooklyn, charge premium rates for entire homes but monitor availability to avoid seeming undesirable. In outer boroughs, target budget travelers with competitive pricing and flexible stays. Encourage reviews to signal quality, though it’s not a major pricing lever.
   - **Strategic Takeaway**: Location and room type are the primary pricing drivers, with availability and reviews as secondary factors.
-
-## Repository Contents
-- **`NYC_Airbnb_Analysis.ipynb`**: Jupyter Notebook with all code, comments, and visualizations.
-- **`AB_NYC_2019.csv`**: Original dataset (sourced from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)).
-- **`cleaned_airbnb_nyc.csv`** (optional): Cleaned dataset generated during analysis.
